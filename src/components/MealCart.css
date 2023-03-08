@@ -1,0 +1,12 @@
+.icon {
+  z-index: -1;
+}
+
+.parent {
+}
+.parent:hover .icon {
+  z-index: 1;
+}
+.parent:hover .image {
+  opacity: 0.7;
+}

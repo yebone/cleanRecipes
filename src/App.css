@@ -1,0 +1,13 @@
+.page{
+    height: 80vh;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.active{
+    color: #E3DFFD ;
+}
